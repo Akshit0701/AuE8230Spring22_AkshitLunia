@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/akshit/git/AuE8230Spring22_AkshitLunia/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/akshit/git/AuE8230Spring22_AkshitLunia/catkin_ws/install -G Unix Makefiles
